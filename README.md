@@ -37,7 +37,7 @@ Visualizations  (visualizations/)
 
 ## Dataset
 
-- **Source:** [Healthcare Dataset — Kaggle (prasad22)](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+- **Source:** [Healthcare Dataset - Kaggle (prasad22)](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 - **Records:** 55,500 patient records
 - **Key columns:** Age, Gender, Medical Condition, Billing Amount, Admission Date, Discharge Date, Insurance Provider, Test Results, Medication, Length of Stay
 - **Note:** This is a synthetic dataset created for educational purposes. All patient names and values are artificially generated.
