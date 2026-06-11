@@ -48,7 +48,7 @@ Visualizations  (visualizations/)
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/ishagupta0506/healthcare-analytics-sql-python
 cd hospital-patient-analytics
 
 # 2. Create and activate virtual environment (Windows)
@@ -168,7 +168,6 @@ hospital-patient-analytics/
 ├── run_queries.py                   # Executes sql/queries.sql
 ├── run_advanced_queries.py          # Executes sql/advanced_queries.sql
 ├── query_results_final.md           # Full query documentation and insights
-├── resume_project_summary.md        # Resume bullets and interview prep
 └── README.md
 ```
 
@@ -177,7 +176,6 @@ hospital-patient-analytics/
 ## Documentation
 
 - **`query_results_final.md`** — All 22 queries documented with results, business insights, and SQL concepts used
-- **`resume_project_summary.md`** — Resume bullets, interview talking points, and role-specific framing
 
 ---
 
